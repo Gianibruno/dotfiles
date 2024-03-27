@@ -1,7 +1,5 @@
 [user]
-    email = fabricio.tuosto@gmail.com
-    name = Fabricio Tuosto
-[commit]
-    gpgsign = true
+    email = gianibruno96@gmail.com
+    name = Gianfranco Bruno
 [pull]
     rebase = false
