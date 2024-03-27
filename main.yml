@@ -7,11 +7,8 @@
     - asdf
     - tmux
     - neovim
-    - aws
     - ssh
-    - vpn
     - git
-    - gnupg
     # Programming SDKs
     - database-clients
     - golang
